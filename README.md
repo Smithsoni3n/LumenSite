@@ -30,10 +30,6 @@ LumenSite was created to share more than code to share perspective. Built as a m
 
 Clone and run locally:
 
-```bash
-git clone https://github.com/OlympicC1/LumenSite.git
-cd LumenSite/docs
-```
 
 Open `index.html` in your browser to view the site.
 

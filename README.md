@@ -20,10 +20,6 @@ LumenSite was created to share more than code to share perspective. Built as a m
 
 ---
 
-## Demo
-
-[Visit LumenSite](Smithsoni3n.github.io/LumenSite/)
-
 ---
 
 ## Quick Start

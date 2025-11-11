@@ -22,7 +22,7 @@ LumenSite was created to share more than code to share perspective. Built as a m
 
 ## Demo
 
-[Visit LumenSite](https://olympicc1.github.io/LumenSite/)
+[Visit LumenSite](Smithsoni3n.github.io/LumenSite/)
 
 ---
 
@@ -79,7 +79,7 @@ I created LumenSite as more than a template, it's a reflection of how I see the 
 
 ## Copyright
 
-&copy; 2025 OlympicC1. All rights reserved.
+&copy; 2025 . All rights reserved.
 
 ---
 
